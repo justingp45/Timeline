@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Wake_2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%7%Is this... a camera?'
+  - '%7%Am I being watched?'
+  dialogueData:
+  - dialogueText: Is this... a camera?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Am I being watched?
+    characterSpeaking: 1
+    expression: 7
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

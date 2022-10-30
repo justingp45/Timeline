@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Night_Top_Use_1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%Let''s see... there''s a lot of random junk in here. It''s my nightstand
+    after all.'
+  - '%0%But looks like there''s a piece of paper in here.'
+  - '%0%It says, "SEEK HELP FOR THE PASSWORD."'
+  - '%5%What the hell does that mean? Are we supposed to call someone?'
+  - '%6%How the hell are we supposed to do that without access to an electronic device,
+    genius?'
+  - '%5%Well, at least we unlocked something, but it doesn''t look like it did much.
+
+'
+  - '%0%I''ll hold on to the paper for now.'
+  - '[Strange Note added to inventory]%SE0%'
+  dialogueData:
+  - dialogueText: Let's see... there's a lot of random junk in here. It's my nightstand
+      after all.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: But looks like there's a piece of paper in here.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: It says, "SEEK HELP FOR THE PASSWORD."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: What the hell does that mean? Are we supposed to call someone?
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: How the hell are we supposed to do that without access to an electronic
+      device, genius?
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: 'Well, at least we unlocked something, but it doesn''t look like
+      it did much.
+
+'
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: '%0%I''ll hold on to the paper for now.'
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: '[Strange Note added to inventory]%SE0%'
+    characterSpeaking: 0
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

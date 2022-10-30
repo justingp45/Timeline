@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Consent_11
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'Completion: Thank you for your voluntary participation.'
+  - Welcome to the Chromatic Project Extended Testing Program, hereby referred to
+    as the CPETP. Pandora Laboratories is not responsible for any and all injuries
+    that occur during the CPETP. Your primary objective is to assist Subject 11 in
+    completing their primary objective. To assist you with this, you have been given
+    access to a small module that will allow you to interact with Subject 11.
+  - This module is called the K-177 capsule. You may input basic commands to move
+    the modules as well as give orders to Subject 11. Simply use the WASD keys on
+    your keypad for movement and left click for interaction with objects.
+  - You may also acess the menu by hitting the "Enter" button or E key.  Further
+    information as well as a list of commands can be found by looking at the Options
+    menu.
+  - "If you find Subject 11's primary objective unnecessary to complete, you may
+    quit participating in the CPETP at any time. Simply discontinue using the module.
+    After an extended period of inactivity, one of our representatives will terminate
+    the CPETP.\r"
+  - Pandora Laboratories thanks you for your voluntary participation.
+  responses: []

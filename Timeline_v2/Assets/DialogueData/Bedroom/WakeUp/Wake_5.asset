@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Wake_5
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%Well, it looks like someone''s there...'
+  - '%7%Who are you anyways?'
+  - '[I am %PlayerName%]'
+  - '%7%%PlayerName%? Is that what I''m supposed to call you?'
+  dialogueData:
+  - dialogueText: Well, it looks like someone's there...
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: Who are you anyways?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: '[I am %PlayerName%]'
+    characterSpeaking: 0
+    expression: 0
+  - dialogueText: '%PlayerName%? Is that what I''m supposed to call you?'
+    characterSpeaking: 1
+    expression: 7
+  responses:
+  - responseText: Yes
+    dialogueObject: {fileID: 11400000, guid: 5a0d4f772d38f97438aac0b779ebf856, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: No
+    dialogueObject: {fileID: 11400000, guid: 51577e747af81434b9d53176f112ad91, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

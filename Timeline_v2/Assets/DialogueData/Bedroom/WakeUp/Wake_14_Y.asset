@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Wake_14_Y
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%Good, that''s a start then.'
+  - '%3%Uh, I guess I should start somewhere. You can call me... uh... Leo.'
+  - '[Database Updated]'
+  - '%7%Uh, what? You ARE living, right?'
+  dialogueData:
+  - dialogueText: Good, that's a start then.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: Uh, I guess I should start somewhere. You can call me... uh...
+      Leo.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: '[Database Updated]'
+    characterSpeaking: 0
+    expression: 0
+  - dialogueText: Uh, what? You ARE living, right?
+    characterSpeaking: 1
+    expression: 7
+  responses:
+  - responseText: Yes
+    dialogueObject: {fileID: 11400000, guid: add060832a5b925498f369b764615def, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: No
+    dialogueObject: {fileID: 11400000, guid: d1ab67a9e39ab64498dcc2caf8f587bb, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

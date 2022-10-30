@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Window_PostE
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%All the windows in my room are bolted shut with some kind of metal.'
+  dialogueData:
+  - dialogueText: All the windows in my room are bolted shut with some kind of metal.
+    characterSpeaking: 1
+    expression: 2
+  responses:
+  - responseText: Examine
+    dialogueObject: {fileID: 11400000, guid: f94b8bdac2c25054a86e2c4c95385226, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Story
+    dialogueObject: {fileID: 11400000, guid: f735b9e43c1dc7f44a3e30c26e709c40, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Exit
+    dialogueObject: {fileID: 0}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

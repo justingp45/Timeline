@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Stand
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "%7%These figures here look like they're important, but something seems
+    to be missing."
+  - "%2%There's also a little drawer below it, but it looks like its locked."
+  - '%6%WHY IS EVERYTHING IN THIS ROOM LOCKED?'
+  - '%3%Sorry, just a little frustrated.'
+  responses: []

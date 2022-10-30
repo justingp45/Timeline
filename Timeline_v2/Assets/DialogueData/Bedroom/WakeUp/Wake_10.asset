@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Wake_10
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%6%Extended Testing program? What the hell does that even mean? I just signed
+    up for this stupid thing!'
+  - '%5%So, this is their big test? Lock me in here and now I have to escape?'
+  - '%5%Jeez, what a pain. Whatever. I guess I''ll play along for now.'
+  dialogueData:
+  - dialogueText: Extended Testing program? What the hell does that even mean? I
+      just signed up for this stupid thing!
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: So, this is their big test? Lock me in here and now I have to escape?
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: Jeez, what a pain. Whatever. I guess I'll play along for now.
+    characterSpeaking: 1
+    expression: 5
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

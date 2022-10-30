@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Talk_Pandora
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%5%Seriously, you don''t know? I mean, you kind of have to know who they are
+    to sign up for this thing, right?
+
+'
+  - '%2%But whatever. I''ll tell you what I know.'
+  - '%0%Pandora Laboratories is a company that''s dedicated to achieving the best
+    out of everybody.'
+  - '%1%They run all sorts of tests, from creating super athletes to drug testing,
+    and even wacky things like alternative medicine!'
+  - '%8%But what caught my eye was the Chromatic Project. "Achieve enlightenment
+    in less than a month!"
+
+'
+  - '%8%They went on to say they could supercharge your brain through the latest
+    breakthroughs in science.
+
+'
+  - '%3%Honestly, I did it to help myself out with my grades. I know it''s stupid,
+    but I''m kind of desperate.
+
+'
+  - '%3%See, I have a hard time focusing on anything for a long period of time. And
+    trust me, it''s a lot worse than it sounds.'
+  - '%1%But I met with these guys yesterday and they said they could fix all of that
+    through the Chromatic Project!'
+  - '%3%Of course, I got in a fight with my parents this morning about it.'
+  - '%0%Anyways, back on track.'
+  - '%0%Apparently, they''re centered somewhere in Germany, but they have labs practically
+    all over the world!'
+  - '%0%I saw a flyer for the Chromatic Project in the mall a few days ago.'
+  - '%0%They had a lab about 15 minutes from where I live, so I decided to check
+    it out.'
+  - '%2%Of course, I only went there once for the initial interview.'
+  - '%0%The guys there seemed pretty professional, if a little bit stiff.'
+  - '%1%Still, it''s kind of amazing they set this all up in such a short amount
+    of time.'
+  - '%5%I don''t remember them telling me about all THIS.
+
+'
+  - '%7%Last thing I remember is getting the letter that I was accepted for the Chromatic
+    Project,'
+  - '%7%And then I went to bed for the night.'
+  - '%7%I guess the escape room thing is supposed to boost my mental acuity?'
+  - '%2%I wonder what other tests they have in store for me.'
+  dialogueData:
+  - dialogueText: 'Seriously, you don''t know? I mean, you kind of have to know who
+      they are to sign up for this thing, right?
+
+'
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: But whatever. I'll tell you what I know.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: Pandora Laboratories is a company that's dedicated to achieving
+      the best out of everybody.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: They run all sorts of tests, from creating super athletes to drug
+      testing, and even wacky things like alternative medicine!
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: 'But what caught my eye was the Chromatic Project. "Achieve enlightenment
+      in less than a month!"
+
+'
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: 'They went on to say they could supercharge your brain through
+      the latest breakthroughs in science.
+
+'
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: 'Honestly, I did it to help myself out with my grades. I know it''s
+      stupid, but I''m kind of desperate.
+
+'
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: See, I have a hard time focusing on anything for a long period
+      of time. And trust me, it's a lot worse than it sounds.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: But I met with these guys yesterday and they said they could fix
+      all of that through the Chromatic Project!
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: Of course, I got in a fight with my parents this morning about
+      it.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: Anyways, back on track.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Apparently, they're centered somewhere in Germany, but they have
+      labs practically all over the world!
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: I saw a flyer for the Chromatic Project in the mall a few days
+      ago.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: They had a lab about 15 minutes from where I live, so I decided
+      to check it out.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Of course, I only went there once for the initial interview.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: The guys there seemed pretty professional, if a little bit stiff.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Still, it's kind of amazing they set this all up in such a short
+      amount of time.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: 'I don''t remember them telling me about all THIS.
+
+'
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: Last thing I remember is getting the letter that I was accepted
+      for the Chromatic Project,
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: And then I went to bed for the night.
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: I guess the escape room thing is supposed to boost my mental acuity?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: I wonder what other tests they have in store for me.
+    characterSpeaking: 1
+    expression: 2
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

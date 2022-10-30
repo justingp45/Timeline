@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Night_Story
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%Well, it is my nightstand, but I usually use it as my junk drawer.'
+  - '%0%The only things I really use normally are the clock and charger here.'
+  - "%0%I use the top drawer for junk. The middle drawer is where I store all my
+    dress socks and belts.\r"
+  - '%2%The bottom drawer is for my scout stuff, but I haven''t used it in forever.'
+  - '%2%Of course, my mom would NEVER let me get rid of it. She''s kind of a hoarder.'
+  dialogueData:
+  - dialogueText: '%0%Well, it is my nightstand, but I usually use it as my junk
+      drawer.'
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: '%0%The only things I really use normally are the clock and charger
+      here.'
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "%0%I use the top drawer for junk. The middle drawer is where I
+      store all my dress socks and belts.\r"
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: '%2%The bottom drawer is for my scout stuff, but I haven''t used
+      it in forever.'
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: '%2%Of course, my mom would NEVER let me get rid of it. She''s
+      kind of a hoarder.'
+    characterSpeaking: 1
+    expression: 2
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

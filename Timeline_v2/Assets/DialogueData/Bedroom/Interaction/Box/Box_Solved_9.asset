@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Box_Solved_9
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "So now you know. I was a coward. And I took the credit for finding
+      her.\r"
+    characterSpeaking: 1
+    expression: 10
+  - dialogueText: I don't think my mom remembers the events clearly. She was in shock.
+    characterSpeaking: 1
+    expression: 10
+  - dialogueText: So everyone thinks I found her. But I didn't.
+    characterSpeaking: 1
+    expression: 10
+  - dialogueText: I'm a liar. A fraud. My inaction cost someone their life.
+    characterSpeaking: 1
+    expression: 10
+  - dialogueText: I'm nothing but a monster. Go ahead, say it.
+    characterSpeaking: 1
+    expression: 10
+  responses:
+  - responseText: ...
+    dialogueObject: {fileID: 11400000, guid: f1fe23650f4b98b4591b8971a697c47a, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: You are not a monster
+    dialogueObject: {fileID: 11400000, guid: aa481fc2a48e37e469c7d93a4fd5e315, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

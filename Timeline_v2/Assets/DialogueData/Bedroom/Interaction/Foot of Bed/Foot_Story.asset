@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Foot_Story
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%I always carried all my books around in my backpack when I was young.'
+  - '%0%Everyone else always told me my backpack weighed a ton. Maybe I just got
+    used to it?'
+  - '%2%The weight also made for a good anti-theft strategy too, I guess.'
+  - '%0%The reason was that I would always forget my books in class if I didn''t
+    have them on me.'
+  - '%0%So, I just got used to carrying them around with me. That way I''d never
+    forget them.'
+  - '%0%I also carried around my laptop in there along with its charger.'
+  - '%0%That way I could do anything from homework to writing anywhere I wanted.'
+  - '%0% was often at a lot of after-school activities when I was a kid, so I needed
+    to be mobile.'
+  - '%0%I can still remember sitting backstage working on finishing an essay while
+    I was running tech crew.'
+  - '%2%Let''s keep looking for clues.'
+  dialogueData:
+  - dialogueText: I always carried all my books around in my backpack when I was
+      young.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Everyone else always told me my backpack weighed a ton. Maybe I
+      just got used to it?
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: The weight also made for a good anti-theft strategy too, I guess.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: '%0%The reason was that I would always forget my books in class
+      if I didn''t have them on me.'
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: So, I just got used to carrying them around with me. That way I'd
+      never forget them.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: I also carried around my laptop in there along with its charger.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: '%0%That way I could do anything from homework to writing anywhere
+      I wanted.'
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: I was often at a lot of after-school activities when I was a kid,
+      so I needed to be mobile.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: I can still remember sitting backstage working on finishing an
+      essay while I was running tech crew.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Let's keep looking for clues.
+    characterSpeaking: 1
+    expression: 2
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

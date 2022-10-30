@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Post_Story
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "%0%The \u201CSING\u201D sign was hung there by my aunt. She's the one that helped
+    redecorate this place."
+  - '%0%This is also the only room in the house that has a different color wall since
+    we painted it.'
+  - '%0%The skyline poster I got on a trip to New York. Man, that trip was blazing
+    hot.'
+  - '%0%We found it after stopping at one of these young artist''s shops. '
+  - '%1%It was a fun trip. We went with my theater company and we saw a lot of shows.'
+  - '%2%We walked a LOT though. Something I''d prefer never to have to do again.'
+  - '%0%The other one was just a poster my aunt found cute. It''s just some generic
+    movie picture.'
+  - "%0%It says, \u201CIn life, there is no take two.\u201D With a number 7 on it. "
+  - '%0%And then there''s my coat rack. It''s something someone picked up in Africa. '
+  - '%0%I forget who though.
+
+'
+  - "%0%It's metal and depicts some African guys in what looks like a jazz band.\r"
+  - '%0%Complete with guitar, trumpet, percussion, and some African woodwind I can''t
+    identify.
+
+'
+  - '%0%In case you couldn''t tell, I''m pretty into music and the performing arts.
+
+'
+  dialogueData:
+  - dialogueText: "The \u201CSING\u201D sign was hung there by my aunt. She's the
+      one that helped redecorate this place."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: This is also the only room in the house that has a different color
+      wall since we painted it.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: The skyline poster I got on a trip to New York. Man, that trip
+      was blazing hot.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'We found it after stopping at one of these young artist''s shops. '
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: It was a fun trip. We went with my theater company and we saw a
+      lot of shows.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: We walked a LOT though. Something I'd prefer never to have to do
+      again.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: The other one was just a poster my aunt found cute. It's just some
+      generic movie picture.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "It says, \u201CIn life, there is no take two.\u201D With a number
+      7 on it. "
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'And then there''s my coat rack. It''s something someone picked
+      up in Africa. '
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'I forget who though.
+
+'
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "It's metal and depicts some African guys in what looks like a
+      jazz band.\r"
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'Complete with guitar, trumpet, percussion, and some African woodwind
+      I can''t identify.
+
+'
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'In case you couldn''t tell, I''m pretty into music and the performing
+      arts.
+
+'
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

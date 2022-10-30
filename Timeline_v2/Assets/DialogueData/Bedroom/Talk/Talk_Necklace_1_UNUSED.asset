@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Talk_Necklace_1_UNUSED
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Huh, that's weird. I don't recognize this. Looks like the Yin part of the Yin
+    Yang symbol.
+  - Or, is it the Yang part? The white part, whatever it's called. I get them mixed
+    up sometimes.
+  - Maybe it has something to do with the test? Like a clue or something? I dunno.
+  dialogueData:
+  - dialogueText: Huh, that's weird. I don't recognize this. Looks like the Yin part
+      of the Yin Yang symbol.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Or, is it the Yang part? The white part, whatever it's called.
+      I get them mixed up sometimes.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Maybe it has something to do with the test? Like a clue or something?
+      I dunno.
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

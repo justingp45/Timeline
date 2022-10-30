@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Talk_What_Diff_1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%That was kind of a rhetorical question, but whatever.'
+  - '%0%Is there something else you want to ask me?'
+  dialogueData:
+  - dialogueText: That was kind of a rhetorical question, but whatever.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: Is there something else you want to ask me?
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

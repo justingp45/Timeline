@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Talk_What_Diff_0
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%6%Well, duh it''s different! I''m locked in!'
+  - '%6%My door isn''t supposed to be locked!'
+  - '%6%Not to mention all this stuff set up in here with me!
+
+'
+  - '%7%It definitely wasn''t like this when I left this morning! They must work
+    pretty fast...'
+  - "%0%Still I guess escaping from one room isn't SO bad, right?\r"
+  - '%1%It gives me a chance to exercise some critical thinking skills.'
+  - "%0%Plus, most people have to PAY for this kind of setup.\r"
+  - '%7%That being said, where are my parents?'
+  - '%7%That being said, where are my parents?'
+  - '%0%I mean, besides you of course.'
+  dialogueData:
+  - dialogueText: Well, duh it's different! I'm locked in!
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: My door isn't supposed to be locked!
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: 'Not to mention all this stuff set up in here with me!
+
+'
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: It definitely wasn't like this when I left this morning! They must
+      work pretty fast...
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Still I guess escaping from one room isn't SO bad, right?\r"
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: It gives me a chance to exercise some critical thinking skills.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: "Plus, most people have to PAY for this kind of setup.\r"
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: '%7%That being said, where are my parents?'
+    characterSpeaking: 0
+    expression: 0
+  - dialogueText: There's no one else here.
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: '%0%I mean, besides you of course.'
+    characterSpeaking: 1
+    expression: 0
+  responses:
+  - responseText: I don't know.
+    dialogueObject: {fileID: 11400000, guid: f902713bdb079bb459de3ce3ac9a3ec6, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Help_7
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%Well we unlocked the closet. At least I''ll be able to change my clothes
+    now.'
+  - '%7%But we still need to find a way to unlock the door.'
+  - '%7%That box inside the closet is really bugging me.'
+  - '%7%There''s got to be a code that unlocks it!'
+  - '%7%Maybe that "LIES" paper has to do with it?'
+  - '%7%But that''s a word, not a code.'
+  - '%7%Unless we''re supposed to look at it in a certain way...'
+  dialogueData:
+  - dialogueText: Well we unlocked the closet. At least I'll be able to change my
+      clothes now.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: But we still need to find a way to unlock the door.
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: That box inside the closet is really bugging me.
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: There's got to be a code that unlocks it!
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Maybe that "LIES" paper has to do with it?
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: But that's a word, not a code.
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Unless we're supposed to look at it in a certain way...
+    characterSpeaking: 1
+    expression: 7
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

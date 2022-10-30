@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Trash_Examine_2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "%2%Well, whatever, I guess. \r"
+  - '%0%At the very least, it should be helpful for recognizing symbols.'
+  - '%0%I think I already saw some of them around here. There''s definitely one on
+    the drawer.'
+  - '%1%Well, I guess that''s progress. So good on us. One step closer to getting
+    out of here!'
+  dialogueData:
+  - dialogueText: "Well, whatever, I guess. \r"
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: At the very least, it should be helpful for recognizing symbols.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: I think I already saw some of them around here. There's definitely
+      one on the drawer.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Well, I guess that's progress. So good on us. One step closer to
+      getting out of here!
+    characterSpeaking: 1
+    expression: 1
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

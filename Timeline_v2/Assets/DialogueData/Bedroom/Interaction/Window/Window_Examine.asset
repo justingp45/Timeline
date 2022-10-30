@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Window_Examine
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%5%As much as I''d like to rip these things off my wall, they look pretty sturdy.'
+  - '%3%I don''t think I''m going to be able to remove them.'
+  - '%4%Plus, I don''t think I''d even want to. I''m on the second story! I''m not
+    jumping from here.'
+  - '%7%Well, maybe I could if the ones facing the street could come off. '
+  - '%7%There''s part of the roof there.
+
+'
+  - '%8%I could then use the palm tree just outside to slide down and reach the ground.'
+  - '%4%But A: I''m not an action hero and B: those metal plates aren''t going anywhere.
+
+'
+  - '%8%But wait. There''s a series of numbers written on one of the plates here!'
+  - '%8%5293'
+  - "%8%Hopefully that's some sort of code that we need.\r"
+  dialogueData:
+  - dialogueText: As much as I'd like to rip these things off my wall, they look
+      pretty sturdy.
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: I don't think I'm going to be able to remove them.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: Plus, I don't think I'd even want to. I'm on the second story!
+      I'm not jumping from here.
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: 'Well, maybe I could if the ones facing the street could come off. '
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: 'There''s part of the roof there.
+
+'
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: I could then use the palm tree just outside to slide down and reach
+      the ground.
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: 'But A: I''m not an action hero and B: those metal plates aren''t
+      going anywhere.
+
+'
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: But wait. There's a series of numbers written on one of the plates
+      here!
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: 5293
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: "Hopefully that's some sort of code that we need.\r"
+    characterSpeaking: 1
+    expression: 8
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

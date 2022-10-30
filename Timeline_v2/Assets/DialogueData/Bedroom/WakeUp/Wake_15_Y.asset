@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Wake_15_Y
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%3%Great, because I ran out of them a while ago.'
+  - '%5%I don''t know what these stupid Pandora people have in store for me...'
+  - '%5%But I''ll show them I''m capable of passing their little test.'
+  - '%0%I know a few things about them, so you can ask me about it if that will help.'
+  - '%0%Also, since this is my room, let me know if you need any info about the things
+    in it.'
+  - '%2%If I just knew where to start, that would be a really great help. But there
+    aren''t any clues around here.'
+  - '%1%Let me know if you figure something out. Okay, let''s do this!'
+  responses: []

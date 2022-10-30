@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Talk_What_5_Bed_1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%3%Well... I know this is gonna sound crazy,'
+  - '%3%But... there''s something that lives in that corner over there.'
+  - '%3%Ever since I was a kid, I felt this sort of... presence in the corner of
+    my room.
+
+'
+  - '%9%My mom never believed me. Nobody did. '
+  - '%9%But I kept having nightmares about it taking over my body.'
+  - '%3%I think it almost did, once. But I fought it off.'
+  - '%0%It only seems to be able to do stuff when it''s dark, though. '
+  - "%0%So, we should be fine as long as the lights are on. \r"
+  - '%0%Anyways, is there something else you want to ask me?'
+  dialogueData:
+  - dialogueText: Well... I know this is gonna sound crazy,
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: But... there's something that lives in that corner over there.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: 'Ever since I was a kid, I felt this sort of... presence in the
+      corner of my room.
+
+'
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: 'My mom never believed me. Nobody did. '
+    characterSpeaking: 1
+    expression: 9
+  - dialogueText: But I kept having nightmares about it taking over my body.
+    characterSpeaking: 1
+    expression: 9
+  - dialogueText: I think it almost did, once. But I fought it off.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: 'It only seems to be able to do stuff when it''s dark, though. '
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "So, we should be fine as long as the lights are on. \r"
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Anyways, is there something else you want to ask me?
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

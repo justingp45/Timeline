@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Explin_0
+  m_EditorClassIdentifier: 
+  dialogue:
+  - It was about four years ago now. I had just come home from college after freshman
+    year. My memory of it was hazy. I remember it was just after my grandparents
+    had moved out of their old house and into their new one. Well, they moved out
+    of that one too, but that's not important. I was there to help everyone unpack
+    things. My mom and dad were there too, and so were my aunt, uncle, and cousins.
+    My grandma, grandpa, and great-grandma were going to live in that house.%CT1%
+  - "My family is pretty conflict heavy. Especially my mother. She, my uncle, and
+    my grandparents were all fighting over... something in the kitchen. I can't remember.
+    They're all blood related and they argue over the most trivial things. My dad
+    and I were just shaking our heads. Same with my aunt. Both my cousins were out
+    in the backyard playing at the time. But I was the only one that noticed. \r%CT1%"
+  - My great-grandmother wasn't there.%CT1%
+  - I told the others about that, but my mom just shoved it aside telling me to go
+    check on her. I don't know why, but she paused in that moment, and I could hear
+    her footsteps walking behind me. My great-grandmother was old. 92, to be precise.
+    I was worried that something was wrong. I approached the door to her room. I
+    just felt this... pit in my stomach. But WORSE than anything I ever felt before.%CT1%
+  - I knocked on the door, and nobody replied. And that's where things get fuzzy.
+    I could hear my mom saying something behind me, but I didn't hear what she said.
+    I remember grabbing the doorknob, or was it my mom? Someone grabbed it. I remember
+    the air inside hitting my face. It was like it was filled with tiny needles.
+    And that's when I saw it.%CT1%
+  - I saw my great-grandmother collapsed on the floor in a pool of her own urine.%CT1%
+  - Everything stopped in that moment. It felt like time froze. The arguing in the
+    kitchen stopped. The moving stopped. My mind. Stopped. Working. It was like I
+    was suddenly inside of a giant glacier. People were calling out. They tried to
+    get her off the ground. Someone told me to call 911. I remember that was what
+    cracked the iceberg for me.%CT1%
+  - Have you ever had the sensation of being told to never, ever press a button,
+    and then one day someone comes along and tells you that you can finally push
+    it? I felt that in the back of my mind. But more than anything I felt panic.%CT1%
+  - Everything after that was fragments. The operator responded, and words were still
+    abstract to me. I had to ask someone for the address, because it was still new
+    at the time. The ambulance responded. A friend of ours who was a EMT was one
+    of the first responders.%CT1%
+  - But our families were going through some conflicts over... I think it was jobs?
+    It doesn't matter anymore. My cousins came in. The older one didn't really understand
+    what was going on. She has a mental disorder. A rare one. The younger one was
+    crying. She was really close with my great-grandmother. And she was really sensitive
+    about these things.%CT1%
+  - "My aunt was trying to console them. My uncle and grandparents were in the corner,
+    embarrassed and ashamed. Someone had to clean up the mess in her room, I don't
+    remember who. My dad drove us home after that.\r%CT1%"
+  - Over the next few days, we visited her in the hospital. Her organs were failing.
+    We all had to say goodbye to her. A week later, she passed away. It was the first
+    time I had lost someone like that. No, that's not true. My paternal grandmother
+    passed away before that, but I never knew her that well. And there was this one
+    kid in high school I played chess with in chess club. He got into a car crash.
+    But neither of those were the same as this.%CT1%
+  - 'This was... slow. Painful. Afterwards people kept telling me that if it wasn''t
+    for me, they would have just kept arguing in the kitchen and my great-grandmother
+    would have just sat in that room for the entire day. I tell everyone now that
+    my memory of the events was hazy but...
+
+    %CT1%'
+  - From what I remember, I wasn't the one that found her. My mother entered first.
+    When I entered, she was already over to my great-grandmother. I wasn't the one
+    that found her. I didn't enter that room. I was too scared. I wasn't strong enough.
+    If I had, maybe she would have lived longer. If I had noticed sooner, when I
+    arrived, maybe she wouldn't have had to go through that. %CT1%
+  - "I keep playing those events over and over in my head. Wasn't there anything
+    I could have done different? Why did I just stand there in fear? Why couldn't
+    I do anything?\r%CT1%"
+  - Why?%CT1%
+  - ...%CT1%
+  responses: []

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Computer
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%Hey! The computer screen changed! But it''s locked with a passcode.'
+  dialogueData:
+  - dialogueText: Hey! The computer screen changed! But it's locked with a passcode.
+    characterSpeaking: 1
+    expression: 2
+  responses:
+  - responseText: Story
+    dialogueObject: {fileID: 11400000, guid: 055ccece13655244aa2792c086e51e01, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Examine
+    dialogueObject: {fileID: 11400000, guid: f64c07676a779d943832327357a999dd, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Solve
+    dialogueObject: {fileID: 11400000, guid: 1d34fe93e1b490d42b7539b73899327a, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Exit
+    dialogueObject: {fileID: 0}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Computer_Success_3_N
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%Ah, don''t worry, I''ll explain.'
+  - '%0%So the whole thing is that there''s this cat, and he''s put inside of a box.'
+  - '%0%Once the cat is inside, there''s absolutely no way to observe the cat. Be
+    it sight, sound, or touch.'
+  - '%2%Inside the box is a bottle of poison that will ultimately kill the cat. '
+  - '%0%The bottle is sealed when the test starts, but there''s a way to break it
+    open with a device. '
+  - '%0%This device is triggered by detecting Uranium. Conveniently, there''s a molecule
+    of Uranium inside.'
+  - '%0%Uranium has a half-life of approximately 1 hour.'
+  - '%0%Basically, that means that after 1 hour, there''s a 50 percent chance that
+    the Uranium will have decayed.'
+  - '%2%When it decays, the device will trigger and break the bottle of poison, killing
+    the cat.'
+  - '%0%So, you put the cat in the box and wait an hour. So, here''s the big question.'
+  - '%0%After an hour, is the cat dead or alive?'
+  - '%0%This is where things start to get weird, because there''s an equal chance
+    the cat is alive or dead.'
+  - '%1%The problem is, each is equally likely, and you have no way of telling which
+    is which.'
+  - '%1%After all, the cat can''t be observed. So, you can''t accurately claim that
+    the cat is either one.'
+  - '%8%It can''t be alive, because it could be dead, and it can''t be dead, because
+    it could be alive. '
+  - '%8%So, what do you say to describe it? That''s where a concept called superposition
+    comes in.'
+  - '%8%It resolves this problem by saying the cat is both alive and dead at the
+    same time.'
+  - '%8%More scientifically, the cat is in a superposition of being alive and dead.'
+  - '%8%So, the cat is both alive and dead and neither and both at the same time.'
+  - '%0%I know it''s confusing, but superposition is weird. It does all sorts of
+    crazy things.'
+  - '%0%But this construct is fragile. As soon as you open the box, the superposition
+    collapses'
+  - '%0%And you find out if the cat is either alive or dead.'
+  dialogueData:
+  - dialogueText: Ah, don't worry, I'll explain.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: So the whole thing is that there's this cat, and he's put inside
+      of a box.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Once the cat is inside, there's absolutely no way to observe the
+      cat. Be it sight, sound, or touch.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'Inside the box is a bottle of poison that will ultimately kill
+      the cat. '
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'The bottle is sealed when the test starts, but there''s a way
+      to break it open with a device. '
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: This device is triggered by detecting Uranium. Conveniently, there's
+      a molecule of Uranium inside.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Uranium has a half-life of approximately 1 hour.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Basically, that means that after 1 hour, there's a 50 percent chance
+      that the Uranium will have decayed.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: When it decays, the device will trigger and break the bottle of
+      poison, killing the cat.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: So, you put the cat in the box and wait an hour. So, here's the
+      big question.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: After an hour, is the cat dead or alive?
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: This is where things start to get weird, because there's an equal
+      chance the cat is alive or dead.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: '%1%The problem is, each is equally likely, and you have no way
+      of telling which is which.'
+    characterSpeaking: 0
+    expression: 1
+  - dialogueText: After all, the cat can't be observed. So, you can't accurately
+      claim that the cat is either one.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: 'It can''t be alive, because it could be dead, and it can''t be
+      dead, because it could be alive. '
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: So, what do you say to describe it? That's where a concept called
+      superposition comes in.
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: It resolves this problem by saying the cat is both alive and dead
+      at the same time.
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: More scientifically, the cat is in a superposition of being alive
+      and dead.
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: So, the cat is both alive and dead and neither and both at the
+      same time.
+    characterSpeaking: 0
+    expression: 8
+  - dialogueText: I know it's confusing, but superposition is weird. It does all
+      sorts of crazy things.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: But this construct is fragile. As soon as you open the box, the
+      superposition collapses
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: And you find out if the cat is either alive or dead.
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

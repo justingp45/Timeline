@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Box_Solved_4
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: So this is your idea of a joke, right? Some twisted, demented joke?
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: "I AM NOT A MONSTER YOU FREAKS! I WON'T LET YOU...\r"
+    characterSpeaking: 1
+    expression: 9
+  - dialogueText: Worthless...
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: I won't let you hold this against me...
+    characterSpeaking: 1
+    expression: 10
+  - dialogueText: You truly are pathetic...
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: "Who said that? I'm not pathetic!\r"
+    characterSpeaking: 1
+    expression: 12
+  - dialogueText: SHUT THE HELL UP!!!
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: WHAT THE HELL DO YOU KNOW ANYWAYS?
+    characterSpeaking: 1
+    expression: 6
+  responses:
+  - responseText: Who are you talking to?
+    dialogueObject: {fileID: 11400000, guid: 836e5803062d43a4bbd096389cd0981f, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

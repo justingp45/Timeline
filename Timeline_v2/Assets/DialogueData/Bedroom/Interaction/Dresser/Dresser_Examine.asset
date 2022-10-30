@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Dresser_Examine
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%Save for my swim trunks and a few winter clothes, I keep my basic clothes
+    in here.'
+  - '%0%The dresser has six drawers.'
+  - '%0%Top left drawer is underwear and socks. Bottom left is sweatpants.'
+  - '%0%Top left drawer is underwear and socks. Bottom left is sweatpants.'
+  - "%2%I really need to clean this out. \r"
+  - '%0%There''s also a little stand that I like to display stuff on. '
+  - '%0%Though it looks like the stuff there was replaced.'
+  - '%0%There''s also a colored thermometer there. '
+  - '%0%The balls inside it rise and fall according to the temperature.'
+  - '%0%Right now, it''s saying it''s between 76- and 80-degrees Fahrenheit.'
+  dialogueData:
+  - dialogueText: Save for my swim trunks and a few winter clothes, I keep my basic
+      clothes in here.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: The dresser has six drawers.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Top left drawer is underwear and socks. Bottom left is sweatpants.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Top left drawer is underwear and socks. Bottom left is sweatpants.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "I really need to clean this out. \r"
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'There''s also a little stand that I like to display stuff on. '
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Though it looks like the stuff there was replaced.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'There''s also a colored thermometer there. '
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: The balls inside it rise and fall according to the temperature.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Right now, it's saying it's between 76- and 80-degrees Fahrenheit.
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

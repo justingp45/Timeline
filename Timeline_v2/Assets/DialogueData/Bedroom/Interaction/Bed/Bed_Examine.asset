@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Bed_Examine
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%Huh? There''s something underneath one of the pillows.'
+  - '%8%Hey! It''s a key! Maybe it unlocks something around here.
+
+'
+  - "%8%I highly doubt it will work on the door.\r"
+  - '%7%If Pandora Labs went through all this trouble, they wouldn''t make it THAT
+    easy.'
+  - '%0%Still, we should hold onto it. It might be useful later.
+
+'
+  - '[Bed Key added to Inventory]%SE0%
+
+'
+  dialogueData:
+  - dialogueText: Huh? There's something underneath one of the pillows.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'Hey! It''s a key! Maybe it unlocks something around here.
+
+'
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: "I highly doubt it will work on the door.\r"
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: '%7%If Pandora Labs went through all this trouble, they wouldn''t
+      make it THAT easy.'
+    characterSpeaking: 0
+    expression: 0
+  - dialogueText: Still, we should hold onto it. It might be useful later.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: '[Bed Key added to Inventory]%SE0%'
+    characterSpeaking: 0
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

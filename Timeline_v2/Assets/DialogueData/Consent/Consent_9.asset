@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Consent_9
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Are you afraid of or are easily triggered by demons, religious symbolism, and
+    the existence of an afterlife?
+  responses:
+  - responseText: Yes
+    dialogueObject: {fileID: 11400000, guid: 5cfd07a19e502f3409c546b8549c807f, type: 2}
+  - responseText: No
+    dialogueObject: {fileID: 0}

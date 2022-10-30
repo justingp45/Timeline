@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Junk
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%The junk box is just where I throw random stuff in my pockets.'
+  - '%0%Some of it eventually makes its way into the trash can in the corner.'
+  - '%7%Well, if I was gonna hide something useful in this room, it''d probably be
+    in here.'
+  - '%8%Hey, looks like you were right! There''s a screwdriver in here! Phillips
+    head, by the way.'
+  - '[Screwdriver added to inventory]%SE0%'
+  - '%0%The rest of the stuff here is junk. Nothing of interest.'
+  dialogueData:
+  - dialogueText: The junk box is just where I throw random stuff in my pockets.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Some of it eventually makes its way into the trash can in the corner.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Well, if I was gonna hide something useful in this room, it'd probably
+      be in here.
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Hey, looks like you were right! There's a screwdriver in here!
+      Phillips head, by the way.
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: '[Screwdriver added to inventory]%SE0%'
+    characterSpeaking: 0
+    expression: 0
+  - dialogueText: The rest of the stuff here is junk. Nothing of interest.
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

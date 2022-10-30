@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Talk_Backpack_0
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%Hey it''s my backpack.'
+  - '%0%The backpack looks empty but it can hold a lot of stuff.'
+  - "%7%Though last time I checked I still had my books in there from my last semester.\r"
+  - '%7%Why clean it out? Do they not want me to have access to some music history
+    books?'
+  - '%2%Talk about weird.'
+  - '%0%Well, I can use it to carry around anything useful. '
+  - '%0%That''s probably better than just carrying everything around in my pockets.'
+  - '%3%Kind of makes me wish I had some magical way to make things disappear into
+    an inventory. '
+  - '%1%You know, like in classic video games? Seriously, where do they put that
+    sword? inventory. '
+  - '%12%On second thought, maybe I don''t want to know. '
+  - '[New feature added! Inventory]'
+  - '%2%...Speaking of weird video game tropes, how did you do that?'
+  dialogueData:
+  - dialogueText: Hey it's my backpack.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: The backpack looks empty but it can hold a lot of stuff.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Though last time I checked I still had my books in there from
+      my last semester.\r"
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Why clean it out? Do they not want me to have access to some music
+      history books?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Talk about weird.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'Well, I can use it to carry around anything useful. '
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: That's probably better than just carrying everything around in
+      my pockets.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'Kind of makes me wish I had some magical way to make things disappear
+      into an inventory. '
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: 'You know, like in classic video games? Seriously, where do they
+      put that sword? inventory. '
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: 'On second thought, maybe I don''t want to know. '
+    characterSpeaking: 1
+    expression: 12
+  - dialogueText: '[New feature added! Inventory]'
+    characterSpeaking: 0
+    expression: 0
+  - dialogueText: ...Speaking of weird video game tropes, how did you do that?
+    characterSpeaking: 1
+    expression: 2
+  responses:
+  - responseText: Do what?
+    dialogueObject: {fileID: 11400000, guid: 1f7027fde1860564584815c2682e5368, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

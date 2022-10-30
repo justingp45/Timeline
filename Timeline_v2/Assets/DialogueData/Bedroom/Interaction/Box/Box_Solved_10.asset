@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Box_Solved_10
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: I...
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: I'm sorry, regardless.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: But... thanks. For not... completely shutting me out.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: But now you know.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: That computer, it said I had to confess my sins to get out of here.There
+      were seven words on there.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'Alone
+
+      Beast
+
+      Car'
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'Dance
+
+      Exam
+
+      Freeze'
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: Girlfriend
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: This one was Freeze. I froze in that moment.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: But there were six more. Six more words that correspond to my darkest
+      memories.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'And honestly, the other six are far worse than this one. '
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: If it comes down to it, if it REALLY comes down to it, I could
+      probably talk about 5 of them.
+    characterSpeaking: 1
+    expression: 3
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Printer_Story
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%I got this when I went away to university. I was 18 at the time.'
+  - '%3%...It didn''t really get a whole lot of use, '
+  - "%3%but now that I'm home, both my parents use it for their work.\r"
+  - '%3%I have no idea where my parents are right now. Maybe they''re staying with
+    Mimi?'
+  - '%0%Mimi is what I call my grandma, by the way.'
+  dialogueData:
+  - dialogueText: I got this when I went away to university. I was 18 at the time.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: '...It didn''t really get a whole lot of use, '
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "but now that I'm home, both my parents use it for their work.\r"
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: I have no idea where my parents are right now. Maybe they're staying
+      with Mimi?
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: Mimi is what I call my grandma, by the way.
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

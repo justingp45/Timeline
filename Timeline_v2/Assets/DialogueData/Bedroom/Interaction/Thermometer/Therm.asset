@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Therm
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%The thermometer is only really useful if we need to know the approximate
+    temperature of the room.'
+  - '%0%It only works in blocks of 4. Below 60, 60-64, 64-68, 68-72, 72-76, 76-80,
+    and above 80.'
+  - '%2%It''s Fahrenheit, by the way, in case you''re not from the US or something.'
+  - '%0%Looks like it''s between 76 and 80 degrees right now. That''s pretty normal,
+    though.'
+  dialogueData:
+  - dialogueText: The thermometer is only really useful if we need to know the approximate
+      temperature of the room.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: It only works in blocks of 4. Below 60, 60-64, 64-68, 68-72, 72-76,
+      76-80, and above 80.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: It's Fahrenheit, by the way, in case you're not from the US or
+      something.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: Looks like it's between 76 and 80 degrees right now. That's pretty
+      normal, though.
+    characterSpeaking: 1
+    expression: 0
+  responses:
+  - responseText: Story
+    dialogueObject: {fileID: 11400000, guid: 1108d3999b5ea0d499eb53145995c6b3, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Exit
+    dialogueObject: {fileID: 0}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Trash_Story
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "%0%I have had a lot of trash cans here. The first one I had got moved to my
+    bathroom.\r"
+  - '%2%The second one was a flimsy plastic one that cracked when it hit the marble
+    downstairs.'
+  - '%2%And then there was a wicker one, but that thing was so old and gross it was
+    fraying everywhere.'
+  - '%2%This one''s on its way out too. The joints holding one end together are starting
+    to come apart.'
+  dialogueData:
+  - dialogueText: "I have had a lot of trash cans here. The first one I had got moved
+      to my bathroom.\r"
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: The second one was a flimsy plastic one that cracked when it hit
+      the marble downstairs.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: And then there was a wicker one, but that thing was so old and
+      gross it was fraying everywhere.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: This one's on its way out too. The joints holding one end together
+      are starting to come apart.
+    characterSpeaking: 1
+    expression: 2
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 70dd2608151f55146bfc0e231b41170a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1188555765341561585
+    second: Leo_Awakes_0
+  - first:
+      213: 3126589726914412198
+    second: Leo_Awakes_1
+  - first:
+      213: 6107773285212035176
+    second: Leo_Awakes_2
+  - first:
+      213: 8138303639184569885
+    second: Leo_Awakes_3
+  - first:
+      213: 3477659810578209283
+    second: Leo_Awakes_4
+  - first:
+      213: 4395642122131200065
+    second: Leo_Awakes_5
+  - first:
+      213: -7839400544768505261
+    second: Leo_Awakes_6
+  - first:
+      213: 3872108295145184295
+    second: Leo_Awakes_7
+  - first:
+      213: 4329585603093665325
+    second: Leo_Awakes_8
+  - first:
+      213: 144267699922879257
+    second: Leo_Awakes_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leo_Awakes_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5169492, y: 0.58474576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f22decdb299e7010800000000000000
+      internalID: 1188555765341561585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Awakes_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 361
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5169492, y: 0.58474576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae7e1f8ac0e36b20800000000000000
+      internalID: 3126589726914412198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Awakes_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 361
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5169492, y: 0.58474576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8681fa9417b23c450800000000000000
+      internalID: 6107773285212035176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Awakes_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5169492, y: 0.58474576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d167ddf8a0011f070800000000000000
+      internalID: 8138303639184569885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Awakes_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 241
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5169492, y: 0.58474576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9a2b1c21234030800000000000000
+      internalID: 3477659810578209283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Awakes_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 241
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0.44067797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148df519835700d30800000000000000
+      internalID: 4395642122131200065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Awakes_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0.44067797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ac11d4dbad43390800000000000000
+      internalID: -7839400544768505261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Awakes_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 121
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0.44067797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cd8f7aafd7cb530800000000000000
+      internalID: 3872108295145184295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Awakes_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 121
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0.44067797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d261b09ba27c51c30800000000000000
+      internalID: 4329585603093665325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_Awakes_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0.44067797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913477e65ba800200800000000000000
+      internalID: 144267699922879257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

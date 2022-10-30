@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Computer_Story
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "%0%I used to write a lot when I was a kid. And I mean a LOT.\r"
+  - '%1%So far, I''ve written over 500 pages of short stories, novels, and various
+    works of fiction.'
+  - '%1%Single-spaced, 12-point font Times New Roman. None of that double-spacing
+    bs.'
+  - '%0%Whenever I had free time in high school, you could usually find me working
+    on some story.'
+  - '%1%I always stored them on my laptop. And I kept a few of them backed up on
+    flash drives.'
+  - '%4%...God I hope that they''re all still on there and that they weren''t erased.'
+  - '%4%I couldn''t imagine what I''d do if all of my work just up and disappeared.
+    I''d be crushed.'
+  dialogueData:
+  - dialogueText: "I used to write a lot when I was a kid. And I mean a LOT.\r"
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: So far, I've written over 500 pages of short stories, novels, and
+      various works of fiction.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: Single-spaced, 12-point font Times New Roman. None of that double-spacing
+      bs.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: Whenever I had free time in high school, you could usually find
+      me working on some story.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: I always stored them on my laptop. And I kept a few of them backed
+      up on flash drives.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: ...God I hope that they're all still on there and that they weren't
+      erased.
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: I couldn't imagine what I'd do if all of my work just up and disappeared.
+      I'd be crushed.
+    characterSpeaking: 1
+    expression: 4
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

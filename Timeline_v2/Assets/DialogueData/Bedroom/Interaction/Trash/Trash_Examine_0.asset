@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Trash_Examine_0
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%The trash can is empty, but... it looks like there''s something behind it.'
+  - (Leo grabs something behind the trash can)
+  - '%4%T-this!'
+  - '%4%Is... is that... blood?'
+  - '%4%This paper is soaked in blood!'
+  - '%4%...'
+  - '%3%Calm down. It''s probably not blood. Why would there be blood in my room?'
+  - "%2%Okay, on closer inspection, it looks like it's just red paint. \n"
+  - "%2%And it's still wet. Kinda gross, but...\r"
+  - '%2%I guess I should open it up, huh?'
+  dialogueData:
+  - dialogueText: The trash can is empty, but... it looks like there's something
+      behind it.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: (Leo grabs something behind the trash can)
+    characterSpeaking: 0
+    expression: 0
+  - dialogueText: '%4%T-this!'
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: Is... is that... blood?
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: This paper is soaked in blood!
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: ...
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: Calm down. It's probably not blood. Why would there be blood in
+      my room?
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "Okay, on closer inspection, it looks like it's just red paint.
+      \n"
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "And it's still wet. Kinda gross, but...\r"
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: I guess I should open it up, huh?
+    characterSpeaking: 1
+    expression: 2
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

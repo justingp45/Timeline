@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Help_4
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%7%The nightstand said to "SEEK HELP" for the password.'
+  - '%0%But I don''t see anything in this room that would "HELP" find the password.'
+  - '%7%But if it''s not in this room, then where the hell is the password?'
+  - '%9%Unless... it''s something only YOU can see? Or access? Where the hell would
+    that be?'
+  dialogueData:
+  - dialogueText: The nightstand said to "SEEK HELP" for the password.
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: But I don't see anything in this room that would "HELP" find the
+      password.
+    characterSpeaking: 0
+    expression: 0
+  - dialogueText: But if it's not in this room, then where the hell is the password?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Unless... it's something only YOU can see? Or access? Where the
+      hell would that be?
+    characterSpeaking: 1
+    expression: 10
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

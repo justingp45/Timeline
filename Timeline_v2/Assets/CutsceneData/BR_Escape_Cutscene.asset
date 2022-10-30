@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2a497d446c2dc44cb67983fd35e8fa7, type: 3}
+  m_Name: BR_Escape_Cutscene
+  m_EditorClassIdentifier: 
+  cutsceneFlow:
+  - {fileID: 11400000, guid: 0e2c3f3964a477d448244789be185a35, type: 2}
+  - {fileID: 11400000, guid: df97c2842d007f445a45deb4e47ad5bb, type: 2}
+  - {fileID: 11400000, guid: ad1a7dce7e2e3bf45b1302678922ce24, type: 2}
+  - {fileID: 11400000, guid: 569336b682630e440b4551c96c2ce721, type: 2}
+  - {fileID: 11400000, guid: 15f201e45c69bc04ab9ca36a9bbc9979, type: 2}
+  - {fileID: 11400000, guid: 8c26bb421d2e7ad4896c4d7474e315d8, type: 2}
+  - {fileID: 11400000, guid: 65564bfd7172fa84cb0af17c07780b22, type: 2}
+  - {fileID: 11400000, guid: 4055dc86cbda78b4ba3e8671d3ba49e0, type: 2}
+  - {fileID: 11400000, guid: 43853530e7f1a3d4f9651f5c040f79a2, type: 2}

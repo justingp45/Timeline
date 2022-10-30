@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Trash_Examine_1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%Hey! This is... an overview of my house!'
+  - '%7%But... what the hell is it doing here? And why are there all these words
+    written around the side?'
+  - '%7%Are they hints? I can''t make out some of it because of the paint...'
+  - "%0%It looks like each of the rooms has a symbol associated with it. \n"
+  - '%0%Looks like my bedroom is a bed.'
+  - '%0%The kitchen is an apple, bonus room is a power button, etcetera.'
+  - '%1%Even the hallways have symbols. Though it looks like they''re just numbered.'
+  - '%3%Well, I know my way around the house, but we''ll hold on to the map just
+    in case. '
+  - '%3%After it dries off...'
+  - '[New feature added! Map]%SE4%'
+  - '%7%Huh? Did... did that do something to you?'
+  dialogueData:
+  - dialogueText: Hey! This is... an overview of my house!
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: But... what the hell is it doing here? And why are there all these
+      words written around the side?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Are they hints? I can't make out some of it because of the paint...
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "It looks like each of the rooms has a symbol associated with it.
+      \n"
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Looks like my bedroom is a bed.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: The kitchen is an apple, bonus room is a power button, etcetera.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Even the hallways have symbols. Though it looks like they're just
+      numbered.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: 'Well, I know my way around the house, but we''ll hold on to the
+      map just in case. '
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: After it dries off...
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: '[New feature added! Map]%SE4%'
+    characterSpeaking: 0
+    expression: 0
+  - dialogueText: Huh? Did... did that do something to you?
+    characterSpeaking: 1
+    expression: 7
+  responses:
+  - responseText: Yes
+    dialogueObject: {fileID: 11400000, guid: 98bd6bd87e47f42479017cde590b4023, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

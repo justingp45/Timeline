@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Computer_Examine
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%This laptop definitely isn''t mine. Plus it looks like I can''t really use
+    it like a normal laptop.'
+  - '%2%It needs a password to get in. '
+  - '%5%I already tried the obvious stuff but it''s not letting me log in.'
+  - '%7%Is the password something I don''t know?'
+  - '%5%But I didn''t see anything in the room that came even CLOSE to a password.'
+  - '%9%But if it''s not in the room, how the hell am I supposed to figure it out?'
+  dialogueData:
+  - dialogueText: This laptop definitely isn't mine. Plus it looks like I can't really
+      use it like a normal laptop.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: '%2%It needs a password to get in. '
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: I already tried the obvious stuff but it's not letting me log in.
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: Is the password something I don't know?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: But I didn't see anything in the room that came even CLOSE to a
+      password.
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: But if it's not in the room, how the hell am I supposed to figure
+      it out?
+    characterSpeaking: 1
+    expression: 10
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

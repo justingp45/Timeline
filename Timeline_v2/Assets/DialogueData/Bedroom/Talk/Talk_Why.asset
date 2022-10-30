@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Talk_Why
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%2%Well, I kind of volunteered for something called the "Chromatic Project".'
+  - '%2%The advertisement said it could help with all sorts of things.
+
+'
+  - '%8%"The Chromatic Project pushes you to your physical, mental, and emotional
+    limits!"
+
+'
+  - '%8%"Join today to help yourself achieve enlightenment!"
+
+'
+  - '%0%They were looking for test subjects, so I volunteered.'
+  - "%3%Only... I don't remember going to Pandora Laboratories today.\r"
+  - '%3%The last thing I remember was getting in a fight with my mom over the test.'
+  - '%4%The next thing I know I woke up in my room with everything locked down!'
+  - '%2%Weird, right? '
+  - '%2%In fact, I don''t think it was even 10 minutes after I sent the e-mail that
+    all this weird stuff started happening!
+
+
+'
+  - '%7%How''d they even make me fall asleep, anyways?'
+  - "%7%Maybe I was out for a few hours while they set this up? That'd make sense...\r"
+  - '%0%Sorry, kind of went on a tangent, there.'
+  - '%0%Is there anything else you want to know?
+
+
+'
+  dialogueData:
+  - dialogueText: Well, I kind of volunteered for something called the "Chromatic
+      Project".
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'The advertisement said it could help with all sorts of things.
+
+'
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: '%8%"The Chromatic Project pushes you to your physical, mental,
+      and emotional limits!"
+
+'
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: '"Join today to help yourself achieve enlightenment!"
+
+'
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: They were looking for test subjects, so I volunteered.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Only... I don't remember going to Pandora Laboratories today.\r"
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: The last thing I remember was getting in a fight with my mom over
+      the test.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: The next thing I know I woke up in my room with everything locked
+      down!
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: 'Weird, right? '
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'In fact, I don''t think it was even 10 minutes after I sent the
+      e-mail that all this weird stuff started happening!
+
+
+'
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: How'd they even make me fall asleep, anyways?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Maybe I was out for a few hours while they set this up? That'd
+      make sense...\r"
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Sorry, kind of went on a tangent, there.
+    characterSpeaking: 0
+    expression: 0
+  - dialogueText: 'Is there anything else you want to know?
+
+
+'
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

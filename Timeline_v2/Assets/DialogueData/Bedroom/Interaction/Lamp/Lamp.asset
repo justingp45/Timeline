@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Lamp
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%This is my bed lamp. It doesn''t seem to be working, though.'
+  - '%7%Upon closer inspection, it looks like the bulb is missing. '
+  - '%7%Maybe we need to find the bulb?'
+  dialogueData:
+  - dialogueText: This is my bed lamp. It doesn't seem to be working, though.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'Upon closer inspection, it looks like the bulb is missing. '
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Maybe we need to find the bulb?
+    characterSpeaking: 1
+    expression: 7
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

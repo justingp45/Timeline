@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Help_2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%It seems like there''s something shiny over on the dresser.'
+  - '%7%Our inventory''s looking a bit bare. Maybe we can find something we could
+    use?'
+  dialogueData:
+  - dialogueText: It seems like there's something shiny over on the dresser.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Our inventory's looking a bit bare. Maybe we can find something
+      we could use?
+    characterSpeaking: 1
+    expression: 7
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

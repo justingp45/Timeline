@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Printer_Paper
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '%0%This is my printer. I usually use it to print out sheet music and school
+    projects.'
+  dialogueData:
+  - dialogueText: This is my printer. I usually use it to print out sheet music and
+      school projects.
+    characterSpeaking: 1
+    expression: 0
+  responses:
+  - responseText: Examine
+    dialogueObject: {fileID: 11400000, guid: 91aef79eb8e0f06498e7343df5b486c9, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Story
+    dialogueObject: {fileID: 11400000, guid: d52cd27fbd472054682692dacb48a483, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Exit
+    dialogueObject: {fileID: 0}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0
