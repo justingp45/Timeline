@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: bathroom_escape 18
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "That\u2019s not good enough! I need to get into this program! "
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "Sir, I told you that the program is extremely selective. We can\u2019t-"
+    characterSpeaking: 0
+    expression: 3
+  - dialogueText: "I\u2019m your prime candidate! I was practically MADE to be a
+      part of this!"
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "It\u2019s true, maybe I\u2019m not always extremely confident\u2026 "
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "But that\u2019s what this program is for! To help people with
+      all sorts of problems!"
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'And if I can do this, then that means that countless other people
+      after me can too! '
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "That\u2019s why I told you, I\u2019m absolutely determined to
+      be a part of this thing! "
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "And if you can\u2019t guarantee that, then I want to talk to someone
+      who can! "
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "So either you tell me I\u2019m in the program or I\u2019ll take
+      it up with your boss! "
+    characterSpeaking: 1
+    expression: 5
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

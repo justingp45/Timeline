@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Bathroom_Wakeup_7
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Yeah I guess I should have seen that coming. Well let\u2019s try
+      to get out of here. Huh?"
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "The necklace I was wearing\u2026 it\u2019s changed."
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "Now it\u2019s the other half of the yin-yang symbol. The black
+      half."
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: Did that guy that attacked me do this?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Well, guess that\u2019s not important right now. Right now I need
+      to get out of here."
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: "Don\u2019t forget that you can always talk to me for help. Or
+      if you have questions or something."
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: "Okay, let\u2019s get started with Round 2!"
+    characterSpeaking: 1
+    expression: 1
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

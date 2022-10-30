@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: tile_puzzle
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: It looks like a 5x5 grid of tiles has been sectioned out into a
+      puzzle.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Looks like one of those puzzles where you have to fill in certain
+      squares based on the numbers.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Like, an 8 means fill in a block of 8 squares along that line.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "I kind of like these puzzles. I\u2019m pretty good at them."
+    characterSpeaking: 1
+    expression: 0
+  responses:
+  - responseText: Story
+    dialogueObject: {fileID: 11400000, guid: fcbcc412dc5d52546969fe3e59e23786, type: 2}
+    requireItem: {fileID: 0}
+    DTag: tile_puzzle
+  - responseText: Solve
+    dialogueObject: {fileID: 11400000, guid: c74aff927b07ce141bfcae44947a5791, type: 2}
+    requireItem: {fileID: 0}
+    DTag: tile_puzzle
+  - responseText: Exit
+    dialogueObject: {fileID: 0}
+    requireItem: {fileID: 0}
+    DTag: tile_puzzle
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

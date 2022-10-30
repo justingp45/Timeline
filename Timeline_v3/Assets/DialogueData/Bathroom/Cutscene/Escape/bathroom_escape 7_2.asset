@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: bathroom_escape 7_2
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Hold on, I\u2019ll tell you the rest of the details. Let\u2019s
+      see\u2026 "
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: "Looks like next to my name is something that says, \u201CMoved
+      to Isolation 2\u201D "
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: 'But not everyone has that note by them. '
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "The only other person that has that note is\u2026 Subject 6\u2026
+      Someone named Amy Summers. "
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "Amy\u2026 that name\u2026  "
+    characterSpeaking: 1
+    expression: 9
+  - dialogueText: "I feel like\u2026 I know that name\u2026 "
+    characterSpeaking: 1
+    expression: 9
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

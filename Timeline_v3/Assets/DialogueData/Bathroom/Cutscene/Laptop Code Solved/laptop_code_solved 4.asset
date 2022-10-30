@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: laptop_code_solved 4
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: We meet again.
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: "You still haven\u2019t answered my question, you know. "
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: And that is?
+    characterSpeaking: 0
+    expression: 14
+  - dialogueText: 'Who the hell are you? '
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: "(Sigh) Well we\u2019re not going to make any progress here without
+      addressing this, are we?"
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: "My name\u2026"
+    characterSpeaking: 0
+    expression: 6
+  - dialogueText: "Why don\u2019t we start with yours then?"
+    characterSpeaking: 0
+    expression: 3
+  - dialogueText: ...
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: HAHAHA! Cat got your tongue?
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: "It\u2019s Leo. Now who are you? "
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: "OH SO THAT\u2019S HOW WE\u2019RE PLAYING IT TODAY, IS IT?"
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: "Fine, fine. I\u2019ll play along."
+    characterSpeaking: 0
+    expression: 6
+  - dialogueText: "My name\u2026 can\u2019t be said."
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: "What do you mean it can\u2019t be said? "
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: Names have power, you know.
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: "If you know someone\u2019s true name, you have much more power
+      over them."
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: Which is why I never tell anyone my name. Not even my brothers.
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: "But you can call me\u2026 Despair."
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: 'Despair? What the hell kind of name is that? '
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: 'Well, what the hell kind of name is Leo? THINK ABOUT THAT? '
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: "I really don\u2019t like you."
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: 'Oh, trust me. The feeling is VERY. MUTUAL. '
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: 'Were you the one that attacked me? '
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: "Oh, him. Right. Really? That\u2019s the level of information you\u2019re
+      at? "
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: 'I know they said ignorance is bliss, but this is ridiculous. '
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: "I\u2019m getting tired of this. Just answer the question! "
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: "Oh, we\u2019ve got a backbone again, have we? Well, we\u2019ll
+      have to deal with THAT eventually. "
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: 'Put the puzzle pieces together, kid. '
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: "\u2026 No. You didn\u2019t attack me. You would have fessed up
+      by now. "
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: 'Ah, finally willing to use your brain, are we? '
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: Good. Now maybe we can actually have a conversation without you
+      being a blithering idiot.
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: 'Where the hell are we? '
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: 'Well, I can say with certainly that you are currently standing
+      in your bathroom. '
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: 'With God knows what the hell that thing following you is. '
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: "Though it seems\u2026 they are privy to this conversation, aren\u2019t
+      you? "
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: 'What do you want anyways? '
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: "What do I want? Why that\u2019s a very stupid question. Isn\u2019t
+      it? "
+    characterSpeaking: 2
+    expression: 0
+  - dialogueText: 'What are you talking about? '
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: 'The answer is simple. '
+    characterSpeaking: 2
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

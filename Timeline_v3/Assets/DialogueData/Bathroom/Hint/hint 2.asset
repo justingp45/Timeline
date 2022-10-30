@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: hint 2
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: We solved the square grid easily. We also saw that matrix on the
+      mirror.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Both of those things were 5X5 grids.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Maybe we need to combine those two things together somehow.
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Like\u2026 do they overlap in some way? Maybe that gives us the
+      code?"
+    characterSpeaking: 1
+    expression: 7
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

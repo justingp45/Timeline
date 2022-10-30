@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: bathroom_escape 6_4
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Right\u2026 so this is an extension of a program from over 40
+      years ago? "
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: "Seems a bit far-fetched, but I don\u2019t have a better explanation
+      right now. "
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: I think we may need more information before we come to any conclusions.
+    characterSpeaking: 1
+    expression: 13
+  - dialogueText: "There\u2019s a second page anyways\u2026 looks like a list of
+      subjects from the CURRENT project. "
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "Well at least no time travel is involved here. That\u2019s a relief. "
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "Looks like\u2026 there were a total of 16 subjects selected for
+      this project. "
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "And listed under number 11\u2026 IS MY NAME! "
+    characterSpeaking: 1
+    expression: 4
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

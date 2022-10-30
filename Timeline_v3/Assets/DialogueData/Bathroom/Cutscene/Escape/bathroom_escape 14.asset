@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: bathroom_escape 14
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Seriously, that\u2019s it?"
+    characterSpeaking: 0
+    expression: 3
+  - dialogueText: 'Huh? '
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: "You\u2019re just going to walk away?"
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: "I mean\u2026 isn\u2019t that what you wanted? "
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: "Man, you\u2019re spineless. You let everyone walk all over you
+      like that?"
+    characterSpeaking: 0
+    expression: 3
+  - dialogueText: "I mean\u2026 I just thought\u2026 "
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: God, I hate people like you. Stand up for yourself!
+    characterSpeaking: 0
+    expression: 14
+  - dialogueText: "You really think you\u2019re going to be selected with an attitude
+      like that?"
+    characterSpeaking: 0
+    expression: 14
+  - dialogueText: "I mean, they said that they\u2019d look- "
+    characterSpeaking: 1
+    expression: 13
+  - dialogueText: "I mean\u2026 I just thought\u2026 "
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: "That\u2019s their way of saying that they\u2019re not going to
+      pick you, genius."
+    characterSpeaking: 0
+    expression: 14
+  - dialogueText: "Who\u2019d want to have a limp noodle-armed wimp participating
+      in this test?"
+    characterSpeaking: 0
+    expression: 14
+  - dialogueText: "I\u2026 I thought that\u2019s what this was about? "
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: "I don\u2019t really have a lot of confidence so\u2026"
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "You know there\u2019s stuff for that right? Outside of signing
+      up for being a lab rat?"
+    characterSpeaking: 0
+    expression: 14
+  - dialogueText: "\u2026It doesn\u2019t help. "
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "\u2026Wow. That\u2019s sad. I\u2019m sad for you. Just grow a
+      pair already!"
+    characterSpeaking: 0
+    expression: 3
+  - dialogueText: "Who\u2026 are you again? I honestly can\u2019t tell if you\u2019re
+      trying to help me or insult me. "
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: "I\u2019m Amy. And honestly\u2026 at this point you\u2019re so
+      pathetic I really can\u2019t help but point it out."
+    characterSpeaking: 0
+    expression: 3
+  - dialogueText: "Listen, kid. When that woman shows up again, say that you want
+      to speak to whoever\u2019s in charge. "
+    characterSpeaking: 3
+    expression: 0
+  - dialogueText: "Tell them that you\u2019re 100% going to be in this test."
+    characterSpeaking: 3
+    expression: 0
+  - dialogueText: 'But they said- '
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: "Look, if you just follow the rules, you\u2019re not going to get
+      anywhere. "
+    characterSpeaking: 3
+    expression: 0
+  - dialogueText: "If a loser like you wants to get into this program, it\u2019s
+      pretty much your only shot. "
+    characterSpeaking: 3
+    expression: 0
+  - dialogueText: "So what\u2019ll it be, kid? Door\u2019s right there if you can\u2019t
+      handle a conversation. "
+    characterSpeaking: 3
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

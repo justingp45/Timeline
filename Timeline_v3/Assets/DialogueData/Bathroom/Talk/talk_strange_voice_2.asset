@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: talk_strange_voice_2
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Yeah there\u2019s no way I could mistake that electronic voice
+      for that. It sounded human."
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "But where were they? There didn\u2019t seem to be any speakers
+      or anything in the room."
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Wait\u2026 you don\u2019t think that it was\u2026"
+    characterSpeaking: 1
+    expression: 4
+  - dialogueText: "Gah! Don\u2019t be stupid! Ghosts don\u2019t exist!"
+    characterSpeaking: 1
+    expression: 9
+  - dialogueText: "\u2026Right?"
+    characterSpeaking: 1
+    expression: 4
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

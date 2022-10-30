@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: bathroom_escape 8
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Just to let you know, the process is extremely selective. There\u2019s
+      no guarantee that you\u2019ll be selected."
+    characterSpeaking: 0
+    expression: 4
+  - dialogueText: "I know, I just hope that you\u2019ll consider my application."
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: We will put it through the screening process and it will be reviewed.
+    characterSpeaking: 0
+    expression: 2
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

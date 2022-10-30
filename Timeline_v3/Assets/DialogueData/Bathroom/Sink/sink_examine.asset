@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: sink_examine
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "It looks like the sink isn\u2019t working, which is just wonderful.
+      Could REALLY use some water right now."
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "When I move the handles, sometimes I can feel a slight click,
+      like something\u2019s unlocking."
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "But I don\u2019t think I have enough information to solve this
+      right now. We\u2019ll have to come back for this."
+    characterSpeaking: 1
+    expression: 7
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

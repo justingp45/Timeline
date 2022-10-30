@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: bathroom_escape 6_3
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: 'Huh? Wait, you mentioned something like that before. '
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "So this is the\u2026 Extended Testing Program? "
+    characterSpeaking: 1
+    expression: 7
+  responses:
+  - responseText: The CPETP
+    dialogueObject: {fileID: 11400000, guid: 6ccaa21b20f074242bde3e358d254f3f, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

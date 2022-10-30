@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: bathroom_escape 21
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: Well, this is a bit unorthodox, but it seems your little outburst
+      there convinced our head researcher.
+    characterSpeaking: 0
+    expression: 10
+  - dialogueText: Indigo wishes for you to undertake the program. Under specific
+      circumstances.
+    characterSpeaking: 0
+    expression: 10
+  - dialogueText: "Wait, really? That\u2019s great news! "
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: "It\u2019s more of an\u2026 exception to the rule, however. You\u2019ll
+      be undergoing a very different treatment."
+    characterSpeaking: 0
+    expression: 10
+  - dialogueText: At least compared to the others.
+    characterSpeaking: 0
+    expression: 10
+  - dialogueText: "If I\u2019m in, I\u2019m in. I\u2019ll do it! "
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "I\u2019ll inform Indigo of your decision. Now if you\u2019ll excuse
+      me, I have to get back to the interviews."
+    characterSpeaking: 0
+    expression: 10
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: Bathroom_Wakeup_2
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: Well, I ended up in my bathroom.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "Could be worse. Could be in the back of some guy\u2019s van."
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: Who the hell hit me in the back of the head?
+    characterSpeaking: 1
+    expression: 14
+  responses:
+  - responseText: Some man in all white and a mask.
+    dialogueObject: {fileID: 11400000, guid: d0f5c698a47a7ad41893bbb256d671e7, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: mirror_equation_after_dirt_is_removed
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Looks like it\u2019s a math problem. "
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 424*62/(16^0+1)-521
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'Uggh I really need a pen and paper. '
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: I could never calculate anything bigger than 2 digits times 2 digits
+      in my head.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Wait, you\u2019re basically a giant computer, right? Can\u2019t
+      you solve it?"
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Oh wait, you\u2019re just someone controlling this thing. Right."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Then just pull out a calculator and figure this thing out! Faster
+      than me using the soap again.
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

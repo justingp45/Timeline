@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: shower_door_anything_interactable_before_Leo_gets_out_of_the_shower_save_the_mirror
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Um, HELLO? I\u2019m stuck inside of the shower!"
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: "And you don\u2019t exactly have arms, so you can\u2019t do anything
+      out there. "
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "If you want me to do anything out there, you\u2019re going to
+      need to get me out of here first. "
+    characterSpeaking: 1
+    expression: 2
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

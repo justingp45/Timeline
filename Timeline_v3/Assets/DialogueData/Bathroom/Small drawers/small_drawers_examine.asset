@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: small_drawers_examine
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "OH WOW LOOK, IT DOESN\u2019T OPEN! WHAT A SURPRISE!"
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: Not.
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: "Looks like there\u2019s a pipe coming out the back that connects
+      it to the sink. "
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Jeez, just how much of my stuff did they ransack?
+    characterSpeaking: 1
+    expression: 9
+  - dialogueText: Maybe I should file a lawsuit for damages to my home after I get
+      out of here.
+    characterSpeaking: 1
+    expression: 5
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

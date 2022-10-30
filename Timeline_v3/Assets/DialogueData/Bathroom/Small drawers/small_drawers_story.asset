@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: small_drawers_story
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: I used to use a regular toothbrush when I was really little.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: But my dentist recommended I use an electric brush one day and
+      my mom immediately made the switch.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Honestly, it\u2019s probably what saved my teeth from the time
+      I didn\u2019t go to the dentist for a year."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Last time I EVER make that mistake.
+    characterSpeaking: 1
+    expression: 5
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

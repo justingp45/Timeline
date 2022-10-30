@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: talk_what_happened
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: BEATS ME!
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: Looks like the guy knocked me unconscious and locked me up in here!
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "At least, I\u2019m assuming it\u2019s a guy\u2026"
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Regardless, it looks like they definitely don\u2019t want me getting
+      out of here that easily."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "I wonder why they\u2019re doing this though?"
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Maybe they\u2019ve got some sort of goal by keeping me trapped
+      here?"
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "I mean, they are trying to experiment on me, so that\u2019s probably
+      it."
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: But still, why go so far as to attack your test subject?
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "Why not just say, \u201CHey! Moron! We need you to do more tests!\u201D
+      or something like that?"
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: "I just get the feeling they\u2019re after something else other
+      than this test. But what?"
+    characterSpeaking: 1
+    expression: 7
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

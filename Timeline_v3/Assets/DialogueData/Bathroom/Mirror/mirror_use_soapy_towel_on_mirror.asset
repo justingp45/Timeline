@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: mirror_use_soapy_towel_on_mirror
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Okay, let\u2019s see what this does. Should be enough to clear
+      up this dirt."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "It seems to be working, that\u2019s good."
+    characterSpeaking: 1
+    expression: 13
+  - dialogueText: "Done! And it\u2019s\u2026 an equation?"
+    characterSpeaking: 1
+    expression: 14
+  - dialogueText: I was expecting something a little more like a code.
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: "Oh, I get it. They\u2019re increasing the difficulty. Before they
+      just GAVE us the code."
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "Now we have to figure it out ourselves. Right, let\u2019s try
+      figuring this out!"
+    characterSpeaking: 1
+    expression: 8
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

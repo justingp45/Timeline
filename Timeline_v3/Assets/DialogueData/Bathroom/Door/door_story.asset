@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: door_story
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: I used to have a nightmare when I was a kid that I was being chased
+      by someone.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: When I did that, I would always lock myself in the bathroom.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "The trouble was, in the nightmare, this door didn\u2019t lock
+      properly."
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "The lock would keep coming unlocked, and as it progressed, the
+      door wouldn\u2019t fit in the frame anymore."
+    characterSpeaking: 1
+    expression: 9
+  - dialogueText: "Then I\u2019d get stabbed and wake up."
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "But honestly, that wasn\u2019t even in the top 10 scariest nightmares
+      I ever had.\r"
+    characterSpeaking: 1
+    expression: 3
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

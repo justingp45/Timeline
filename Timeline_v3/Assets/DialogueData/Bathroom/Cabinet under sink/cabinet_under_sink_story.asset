@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: cabinet_under_sink_story
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: One time a soap bottle got tipped over in the back of this thing
+      and spilled all over the bottom.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: I had to throw out practically everything that was touching the
+      back half of my cabinet.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: My mom was DEFINITELY not happy when she found out about that.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "We couldn\u2019t find the old style of blue towels, so we had
+      to settle for these green and red ones."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "I didn\u2019t like the new ones as much; they weren\u2019t as
+      absorbent."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: But I begrudgingly use them when the old ones get dirty and have
+      to get washed.
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

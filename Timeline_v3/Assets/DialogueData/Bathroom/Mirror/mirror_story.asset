@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: mirror_story
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "It\u2019s pretty much the mirror that I use to make myself look
+      good and brush my teeth."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Well, not so much, \u201Clook good\u201D as \u201Cmake myself
+      look halfway presentable to the world\u201D."
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "I\u2019ve never taken too much time to actually care about my
+      appearance."
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: Why bother? Nobody really pays that much attention to me anyways.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "Wow, that\u2026 sounded really defeatist there. Maybe I should
+      practice some self-love\u2026"
+    characterSpeaking: 1
+    expression: 3
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

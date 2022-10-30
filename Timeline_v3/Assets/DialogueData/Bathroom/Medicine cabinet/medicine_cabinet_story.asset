@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: medicine_cabinet_story
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: One thing I like about this cabinet is that it has a mirror on
+      it. Hear me out.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: When you open this medicine cabinet, it reflects on to the main
+      mirror too.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: So, you slowly open up the door and more and more reflections appear
+      between them.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Eventually it just becomes a long black corridor that you can see
+      down with all of your reflections.
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: I also liked to try and get it at an angle where each reflection
+      would uniquely point at a different one.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: Usually I can get it with  5 and 6, but there should be other combinations.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: "\u2026I\u2019m such a nerd. But it\u2019s cool! I swear! Find
+      two mirrors and start angling them together."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "You\u2019ll see what I mean."
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

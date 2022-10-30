@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: safe
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Yeah this safe definitely wasn\u2019t here before. But it just
+      screams, \u201CSomething important is inside me!\u201D"
+    characterSpeaking: 1
+    expression: 0
+  responses:
+  - responseText: Examine
+    dialogueObject: {fileID: 11400000, guid: 02641e69751aeb3418c77e5a2a9bc0ed, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Story
+    dialogueObject: {fileID: 11400000, guid: f5e1d547082f83c408f7928fb20d0254, type: 2}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Solve
+    dialogueObject: {fileID: 0}
+    requireItem: {fileID: 0}
+    DTag: 
+  - responseText: Exit
+    dialogueObject: {fileID: 0}
+    requireItem: {fileID: 0}
+    DTag: 
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

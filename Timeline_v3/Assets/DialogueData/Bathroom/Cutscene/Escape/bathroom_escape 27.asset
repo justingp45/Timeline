@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: bathroom_escape 27
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Hmm\u2026 looks like this door has four codes we need to put into
+      it. But that\u2019s weird\u2026 "
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Some of these doors have little symbols next to them. I feel like
+      I\u2019ve seen these before. "
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Yeah\u2026 these look like some of the symbols I saw all over
+      my bedroom. And\u2026 ON THE MAP! "
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: "Okay, so looks like each room has a symbol. Which means\u2026
+      it\u2019s probably a hint to where that information is? "
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "That means we\u2019ll probably need to backtrack to those rooms
+      to figure it out. "
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: "Well, I mean they\u2019re right there. Good thing too. Makes it
+      easy for us. "
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'Just have to remember that now we have access to THREE rooms for
+      the puzzle this time. '
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: 'OKAY! One last push people! '
+    characterSpeaking: 1
+    expression: 1
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

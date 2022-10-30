@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: mirror
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "It\u2019s my mirror. Looks like someone vandalized the left half
+      of it though."
+    characterSpeaking: 1
+    expression: 0
+  responses:
+  - responseText: Examine
+    dialogueObject: {fileID: 11400000, guid: 72d8558328dded049b5136b8497cfcee, type: 2}
+    requireItem: {fileID: 0}
+    DTag: mirror
+  - responseText: Story
+    dialogueObject: {fileID: 11400000, guid: c77e0778ff410914292cab75347ac98b, type: 2}
+    requireItem: {fileID: 0}
+    DTag: mirror
+  - responseText: Use Towel
+    dialogueObject: {fileID: 11400000, guid: a435dc3b7e240b94287108bb8bceb992, type: 2}
+    requireItem: {fileID: 11400000, guid: 11d0426e2c9bb1c438048f78921e0ae5, type: 2}
+    DTag: mirror
+  - responseText: Use Soapy Towel
+    dialogueObject: {fileID: 11400000, guid: a5ca95a442918ab4bae26705807c77c9, type: 2}
+    requireItem: {fileID: 11400000, guid: 1316b7b81f3d5e84894f6186713643c8, type: 2}
+    DTag: mirror
+  - responseText: Use Wet Towel
+    dialogueObject: {fileID: 11400000, guid: 544c10f860798d24bbc53a41a6d42af7, type: 2}
+    requireItem: {fileID: 11400000, guid: bfdaac0d6d07e14499da12cc173b9f74, type: 2}
+    DTag: mirror
+  - responseText: Use Wet Soapy Towel
+    dialogueObject: {fileID: 11400000, guid: a02a667f2c3602845b3522d93df5dd0b, type: 2}
+    requireItem: {fileID: 11400000, guid: 8694c69b2c8af1e4eb10f28fa4a1f31b, type: 2}
+    DTag: mirror
+  - responseText: Exit
+    dialogueObject: {fileID: 0}
+    requireItem: {fileID: 0}
+    DTag: mirror
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

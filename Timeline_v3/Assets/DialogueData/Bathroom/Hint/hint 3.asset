@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: hint 3
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Well at the very minimum I\u2019m out of that shower."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Still thirsty though\u2026"
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: Well, at least we can investigate the rest of the room now.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: That laptop sure catches my eye.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Is there any way that we can read that text?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: I once read something about a Ceasar Cypher.
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Basically, you\u2019d substitute each letter for another one in
+      a specific way."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: So one way is a turns to b, b turns to c, l turns to m, z turns
+      to a, and all the others in-between.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Only there\u2019s 24 other combinations. Do we really have to
+      try them all?"
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Or maybe there\u2019s a faster way to crack this\u2026 hmmm\u2026"
+    characterSpeaking: 1
+    expression: 7
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0
