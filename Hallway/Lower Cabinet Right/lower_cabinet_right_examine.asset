@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: lower_cabinet_right_examine
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "Before you ask, it\u2019s locked. I\u2019m really getting tired
+      of saying that\u2026"
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "Well, looks like it has a sticker on it that belongs to somewhere
+      we haven\u2019t been yet."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "I think that means we\u2019re not opening it any time soon. Or
+      at least it\u2019s not relevant right now."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Let\u2019s keep this in mind for later, though."
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

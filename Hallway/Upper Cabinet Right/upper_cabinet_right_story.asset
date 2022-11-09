@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: upper_cabinet_right_story
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: "I use this cabinet to store all of the important items I\u2019ve
+      ever received from people."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Like my grandfather\u2019s pocket watch, a collection of foreign
+      coins, rare trading cards, penny presses\u2026"
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: And a collection of marbles. Maybe I should just move those to
+      the bottom left cupboard.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: "If you were going to rob me, this would probably be the cupboard
+      I WOULDN\u2019T want you to touch."
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: "\u2026Or I could have just made that all up. Hahaha."
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "(Please don\u2019t rob me now\u2026)"
+    characterSpeaking: 1
+    expression: 9
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

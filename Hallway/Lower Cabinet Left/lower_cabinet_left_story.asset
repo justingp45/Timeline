@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: lower_cabinet_left_story
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: I used to store the video games I played in here.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Now it\u2019s just full of old drawings and strategy guides."
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: I drew a lot in grade school when I got bored when I was in class.
+      I still passed my classes though.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: I drew a lot in grade school when I got bored when I was in class.
+      I still passed my classes though.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: But most of the time I would just draw whatever popped into my
+      head.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: I even made a cast of characters and drew them in a comic book
+      series.
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: I really should scan those to my computer. Well, provided we can
+      get this unlocked.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: And find my computer.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: And get the printer working.
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: And find a flash drive. Plus the adapter to USB-C.
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: Now that I think about it, maybe this can wait.
+    characterSpeaking: 1
+    expression: 13
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

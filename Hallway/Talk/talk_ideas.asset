@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: talk_ideas
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: Yeah a few, actually.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "First off, I can\u2019t explain the discrepancy between the two
+      pages."
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: It looks like this Chromatic Project is old. Like, REALLY old.
+      Over 40 years.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: But that would mean that this Indigo guy is at least 60 or more
+      years old if he was involved in it.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "It\u2019s hard to imagine a 60-year-old guy being able to knock
+      me out so easily, though."
+    characterSpeaking: 1
+    expression: 13
+  - dialogueText: Maybe this Indigo guy is younger and just found the project from
+      before and tried to replicate it?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: But back to the contradiction, why would a 40-year-old project
+      suddenly be happening right now?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: And before you mention the Extended Testing thing, I remember clearly
+      that they said Chromatic Project.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "That can\u2019t be a coincidence. There\u2019s got to be a connection
+      between this and the other project."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: Not to mention this project was supposed to be terminated back
+      then.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Unless\u2026 Pandora isn\u2019t actually holding this program.
+      THAT\u2019S IT!"
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: Someone ACTING as Pandora must be doing this project instead!
+    characterSpeaking: 1
+    expression: 8
+  - dialogueText: "So then\u2026 the people I interviewed with weren\u2019t actually
+      part of Pandora?"
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "But if that\u2019s the case, I GOT SCAMMED!"
+    characterSpeaking: 1
+    expression: 6
+  - dialogueText: These guys are actually trying to hold me hostage, not test me!
+    characterSpeaking: 1
+    expression: 5
+  - dialogueText: "But\u2026 no that\u2019s not right either."
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: Why kidnap me with a phony project and then set up the project
+      anyways?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "GAH! Every time I think I\u2019ve figured it out another problem
+      blocks the way."
+    characterSpeaking: 1
+    expression: 9
+  - dialogueText: "I\u2019m also curious what happened to Amy too. Why wasn\u2019t
+      she with us?"
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Maybe she got locked up somewhere else and she\u2019s doing the
+      same thing as us?"
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "That\u2019s my best guess. She must be somewhere else in the house."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "We\u2019ve got to find her! The more people helping us out, the
+      better."
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: "Though\u2026 what happened to the other 14 subjects? And why are
+      only 5 listed in isolation?"
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: I think something happened with the test. But what?
+    characterSpeaking: 1
+    expression: 7
+  - dialogueText: "Didn\u2019t it just start? God I have so many questions!"
+    characterSpeaking: 1
+    expression: 9
+  - dialogueText: "I think I\u2019m just going to keep going in circles unless I
+      find new information."
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: Well, one more reason to solve this puzzle and get out of here.
+    characterSpeaking: 1
+    expression: 0
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: colored_cube_story
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: I used to be able to solve this thing in about 5 minutes.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Only I\u2019ve completely forgotten how to do it now."
+    characterSpeaking: 1
+    expression: 3
+  - dialogueText: "Well guess that\u2019s what happens with years of neglect."
+    characterSpeaking: 1
+    expression: 13
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0

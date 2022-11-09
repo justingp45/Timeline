@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed0eb1059650b148a5e2bfa7ecc1042, type: 3}
+  m_Name: upper_cabinet_left_story
+  m_EditorClassIdentifier: 
+  dialogue: []
+  dialogueData:
+  - dialogueText: I usually store my art supplies in this cupboard.
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "Paints, clay, colored pencils, erasers\u2026 I just like creating
+      stuff."
+    characterSpeaking: 1
+    expression: 0
+  - dialogueText: "But music\u2019s my main passion. All of this art stuff is just
+      a hobby."
+    characterSpeaking: 1
+    expression: 1
+  - dialogueText: "Never been GREAT at it, but I\u2019d say I\u2019m better than
+      average. For being self-taught."
+    characterSpeaking: 1
+    expression: 2
+  - dialogueText: "It\u2019s one of the few things my mom never sunk her claws into.
+      Thank god."
+    characterSpeaking: 1
+    expression: 13
+  responses: []
+  nextDialogue: {fileID: 0}
+  isSpecialDialogue: 0
